@@ -1,0 +1,243 @@
+31880720,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m"
+33969059,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>][0m"
+34311586,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+34673164,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>][0m"
+41596619,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+41823068,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+41999686,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+42472447,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+43055289,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+46359741,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+47704695,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+47735201,"N/A"
+48221692,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+48251943,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Check validation accuracy>][0m"
+48385830,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>][0m
+[31m[<Warning: Learning Rate is high>][0m"
+48486598,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+48976413,"N/A"
+50306988,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Warning: Check validation accuracy>][0m"
+50338865,"[31m[<Critical: Missing Softmax layer before loss>][0m
+[31m[<Warning: Possible overfitting>][0m"
+50555434,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+50914860,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+51185079,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+51581521,"[31m[<Critical: Missing Softmax layer before loss>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+51749207,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+51930566,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+52566823,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>][0m"
+52983831,"N/A"
+53700537,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+53749895,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+54064299,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+54738769,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+54811239,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+55198221,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+55328966,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m"
+58043002,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+58051767,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+58055105,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+58064701,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+58333926,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+58572274,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+56317174,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+56452176,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+56774954,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+57326611,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+57397440,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+57407973,"[31m[<Critical: Missing Softmax layer before loss>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+57516678,"N/A"
+57943425,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+59278771,"N/A"
+59758722,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+60355380,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+60574843,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+60766775,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+60831731,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Warning: Possible overfitting>, <Warning: Check validation accuracy>][0m
+[31m[<Warning: Possible overfitting>][0m
+[<tf.Variable 'dense/kernel:0' shape=(2, 2) dtype=float32, numpy="
+60874661,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+61234347,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+61274792,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>, <Warning: High dropout rate>][0m
+[31m[<Warning: Check validation accuracy>][0m
+[31m[<Warning: Possible overfitting>][0m"
+61498304,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+61763616,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+61886777,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+62068109,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+62313327,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Warning: Possible overfitting>][0m"
+62957334,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+44164749,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+44755431,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Warning: Check validation accuracy>][0m
+[31m[<Warning: Possible overfitting>, <Warning: Check validation accuracy>][0m"
+44758894,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+45378493,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+45442843,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+49583466,"[31m[<Critical: Missing Softmax layer before loss>][0m
+[31m[<Warning: Possible overfitting>][0m"
+65669308,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+65777704,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Warning: Possible overfitting>][0m"
+68101077,"[31m[<Critical: Missing Softmax layer before loss>][0m"
+68458462,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+68751439,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+68773774,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+68938619,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+69787272,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+69901379,"[31m[<Critical: Missing Softmax layer before loss>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+70589997,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+70650848,"N/A"
+46247619,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+46869312,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+47241622,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+51901386,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Image data may have incorrect shape>, <Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Image data may have incorrect shape>, <Error: Input data exceeds typical limits>][0m"
+54282951,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+56218256,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+56888491,"N/A"
+64395424,"ValueError: `validation_split` is only supported for Tensors or NumPy arrays, found following types in the input: [<class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'float'>]"
+64413907,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+66087653,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+58392266,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+58844149,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+59078187,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+60508218,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+60801900,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+61997645,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+62055783,"N/A"
+66235657,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m"
+66407123,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+66602662,"[31m[<Error: Input data exceeds typical limits>][0m
+[31m[<Warning: Last model layer has nonlinear activation>][0m"
+66840108,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+62440336,"[31m[<Error: Input data exceeds typical limits>][0m
+[31m[<Warning: Last model layer has nonlinear activation>][0m"
+63212385,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+64237179,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>, <Warning: Check validation accuracy>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+64387251,"N/A"
+67529687,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>, <Warning: Possible overfitting>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+68321264,"[31m[<Critical: Missing Softmax layer before loss>, <Critical: Missing activation functions>, <Warning: Last model layer has nonlinear activation>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
+68701979,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>][0m"
+70148149,"[31m[<Critical: Missing Softmax layer before loss>, <Warning: Last model layer has nonlinear activation>, <Warning: High dropout rate>][0m
+[31m[<Error: Input data exceeds typical limits>][0m"
