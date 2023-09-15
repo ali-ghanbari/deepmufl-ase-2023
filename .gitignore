@@ -1,0 +1,11 @@
+*~
+*#
+__pycache__/
+.DS_Store
+.idea
+workdir.tar.gz
+*.h5
+25.txt
+50.txt
+75.txt
+100.txt
