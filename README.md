@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains source code of `deepmufl`, as well as the dataset of bugs and raw datat used to answer RQ1-2 in the paper.
-Below is the directory structure for the repository located at [Box](https://iastate.box.com/s/6thee4ntmma8y7ef3744yw6j9t0i3hfa), due to dataset size.
+Below is the directory structure for the repository.
 
 ```plain
 .

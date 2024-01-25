@@ -1,0 +1,268 @@
+31880720,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+33969059,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+34311586,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+34673164,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+41596619,"keras_script.py
+There is no identified fault in the DNN script"
+41823068,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+41999686,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+42472447,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+43055289,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+46359741,"keras_script.py
+There is no identified fault in the DNN script"
+47704695,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers., Deep CNN should not apply pooling after every convolution.
+Layer 5 ==> Deep CNN should not apply pooling after every convolution."
+47735201,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+48221692,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+48251943,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+48385830,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+48486598,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+48976413,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+50306988,"N/A"
+50338865,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+50555434,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+50914860,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+51185079,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+51581521,"N/A"
+51749207,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling)."
+51930566,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+52566823,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+52983831,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+53700537,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+Layer 6 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+Layer 7 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten )."
+53749895,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+54064299,"keras_script.py
+Layer 1 ==> The number of feature maps should be gradually expanded while the feature map area is retracted.
+Layer 4 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+Layer 6 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten )."
+54738769,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+54811239,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+55198221,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+55328966,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+58043002,"keras_script.py
+Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+Layer 3 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+Layer 4 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten )."
+58051767,"keras_script.py
+There is no identified fault in the DNN script"
+58055105,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+58064701,"keras_script.py
+There is no identified fault in the DNN script"
+58333926,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+58572274,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+56317174,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+56452176,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+56774954,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+57326611,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+57397440,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm., The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 4 ==> A learning layer should no longer include a bias when it is followed by batchnorm."
+57407973,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+57516678,"N/A"
+57943425,"keras_script.py
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+Layer 4 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+Layer 9 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+Layer 12 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+Layer 15 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+Layer 21 ==> A learning layer should no longer include a bias when it is followed by batchnorm."
+59278771,"N/A"
+59758722,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+60355380,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+60574843,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+60766775,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation"
+60831731,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+60874661,"keras_script.py
+There is no identified fault in the DNN script"
+61234347,"keras_script.py
+There is no identified fault in the DNN script"
+61274792,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+61498304,"keras_script.py
+There is no identified fault in the DNN script"
+61763616,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+61886777,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm."
+62068109,"keras_script.py
+There is no identified fault in the DNN script"
+62313327,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+62957334,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+44164749,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+44755431,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+44758894,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+45378493,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 3 ==> Batchnorm layer should be before the dropout.
+Layer 8 ==> A learning layer should no longer include a bias when it is followed by batchnorm."
+45442843,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+49583466,"keras_script.py
+There is no identified fault in the DNN script"
+65669308,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+65777704,"keras_script.py
+Layer 2 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 6 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 8 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+68101077,"keras_script.py
+There is no identified fault in the DNN script"
+68458462,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+68751439,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+68773774,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+68938619,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+69787272,"N/A"
+69901379,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+70589997,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+Layer 4 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers."
+70650848,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+Layer 5 ==> A learning layer should no longer include a bias when it is followed by batchnorm."
+46247619,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+46869312,"N/A"
+47241622,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)."
+51901386,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling)."
+54282951,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 1 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function.
+Layer 3 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function."
+56218256,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+56888491,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)."
+64395424,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+64413907,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+66087653,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+58392266,"N/A"
+58844149,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers."
+59078187,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+60508218,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+60801900,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+61997645,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+62055783,"keras_script.py
+Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 3 ==> The number of feature maps should be gradually expanded while the feature map area is retracted."
+66235657,"keras_script.py
+There is no identified fault in the DNN script"
+66407123,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+66602662,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+66840108,"keras_script.py
+There is no identified fault in the DNN script"
+62440336,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+Layer 3 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten )."
+63212385,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+64237179,"keras_script.py
+Error: input file is not valid or not match with selected parser type"
+64387251,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+67529687,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 24 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+Layer 26 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers."
+68321264,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation"
+68701979,"keras_script.py
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)."
+70148149,"keras_script.py
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+Layer 1 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten )."
